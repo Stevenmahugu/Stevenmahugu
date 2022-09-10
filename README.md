@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stevenmahugu
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning how to analyze data with TDA techniques using python 
+- 👀 I’m interested in Data Analysis | Data Analytics
+- 🌱 I’m currently Researching on Topological Data analysis 
 - 💞️ I’m looking to collaborate on data analysis and visualization projects
 - 📫 How to reach me stevenmahugu@gmail.com
 
