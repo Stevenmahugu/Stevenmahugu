@@ -1,4 +1,6 @@
-Hi!
+**Hi!** 
+
+I'm Steve. A passionate Machine Learning Engineer from Kenya
 
 Welcome to my Github ✨ I'm currently working on various Machine learning | Deep learning | Data Analysis projects. I have pursued my masters degree in Mathematics at UON in Nairobi, Kenya. My B.Sc was in Mathematics and Operations Research, also at UON. I have been teaching Teaching professionals virtually about Data Science since 2019. Best way to reach out to me would be at stevenmahugu@gmail.com and https://preply.com/en/tutor/180837.
 
